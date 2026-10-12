@@ -1,0 +1,26 @@
+hotel_id,city,property_type,capacity
+H001,Delhi,Business Hotel,152
+H002,Mumbai,Business Hotel,398
+H003,Chennai,Boutique Hotel,320
+H004,Goa,Luxury Resort,156
+H005,Goa,Luxury Resort,121
+H006,Bengaluru,Heritage Hotel,238
+H007,Delhi,Luxury Resort,70
+H008,Delhi,Boutique Hotel,152
+H009,Kolkata,Boutique Hotel,171
+H010,Mumbai,Budget Inn,264
+H011,Mumbai,Boutique Hotel,380
+H012,Delhi,Luxury Resort,137
+H013,Goa,Heritage Hotel,149
+H014,Goa,Budget Inn,201
+H015,Mumbai,Luxury Resort,180
+H016,Goa,Heritage Hotel,199
+H017,Kolkata,Luxury Resort,358
+H018,Goa,Budget Inn,307
+H019,Jaipur,Boutique Hotel,393
+H020,Chennai,Budget Inn,343
+H021,Mumbai,Boutique Hotel,241
+H022,Bengaluru,Budget Inn,326
+H023,Kolkata,Business Hotel,210
+H024,Hyderabad,Luxury Resort,363
+H025,Chennai,Luxury Resort,71
